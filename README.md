@@ -1,2 +1,5 @@
-<body style="direction:rtl;">
+<html dir="rtl">
+  
 # جزوات درس بیماری های درونی دام بزرگ
+  
+</html>
