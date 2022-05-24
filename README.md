@@ -1,2 +1,2 @@
-<html style="direction:rtl;">
+<body style="direction:rtl;">
 # جزوات درس بیماری های درونی دام بزرگ
