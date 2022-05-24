@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300&display=swap');
+
+*{
+  line-height:1.6;
+  font-family: 'Vazirmatn', sans-serif;
+}
+
+body{
+  width:85ch;
+  margin: auto;
+}
+
+blockquote{
+  background-color: #bbb;
+  border-right: 5px solid #555;
+  width: fit-content;
+  padding: 15px 30px;
+}
+
+blockquote.danger{
+  background-color: #FF7777;
+  color: #fff;
+  border-right: 5px solid #f22;
+  font-weight: bold;
+}
+
+li{
+  margin: 1ch auto;
+}
+
+li:last-child{
+  margin-bottom: 3ch;
+}
